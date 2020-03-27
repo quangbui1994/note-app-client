@@ -7,13 +7,13 @@
 //     },
 //     apiGateway: {
 //       REGION: "us-east-1",
-//       URL: "https://xhhrcw8yfe.execute-api.us-east-1.amazonaws.com/dev"
+//       URL: "https://lvj4ufs5q1.execute-api.us-east-1.amazonaws.com/dev"
 //     },
 //     cognito: {
 //       REGION: "us-east-1",
-//       USER_POOL_ID: "us-east-1_lOs2JO4Dv",
+//       USER_POOL_ID: "us-east-1_urk0FDdWJ",
 //       APP_CLIENT_ID: "rfeihkpnrk5rd1qb5kju7ra5",
-//       IDENTITY_POOL_ID: "us-east-1:1fb421b7-1835-4e93-aa2d-4e7937e47e87"
+//       IDENTITY_POOL_ID: "us-east-1:3aca9f66-0ec1-4434-8acc-b1336776390b"
 //     }
 // };
 
@@ -25,13 +25,13 @@ const dev = {
   },
   apiGateway: {
     REGION: "us-east-1",
-    URL: "https://xhhrcw8yfe.execute-api.us-east-1.amazonaws.com/dev"
+    URL: "https://lvj4ufs5q1.execute-api.us-east-1.amazonaws.com/dev"
   },
   cognito: {
     REGION: "us-east-1",
-    USER_POOL_ID: "us-east-1_lOs2JO4Dv",
+    USER_POOL_ID: "us-east-1_urk0FDdWJ",
     APP_CLIENT_ID: "rfeihkpnrk5rd1qb5kju7ra5",
-    IDENTITY_POOL_ID: "us-east-1:1fb421b7-1835-4e93-aa2d-4e7937e47e87"
+    IDENTITY_POOL_ID: "us-east-1:3aca9f66-0ec1-4434-8acc-b1336776390b"
   }
 };
 
@@ -43,13 +43,13 @@ const prod = {
   },
   apiGateway: {
     REGION: "us-east-1",
-    URL: "https://xhhrcw8yfe.execute-api.us-east-1.amazonaws.com/dev"
+    URL: "https://lvj4ufs5q1.execute-api.us-east-1.amazonaws.com/dev"
   },
   cognito: {
     REGION: "us-east-1",
-    USER_POOL_ID: "us-east-1_lOs2JO4Dv",
-    APP_CLIENT_ID: "rfeihkpnrk5rd1qb5kju7ra5",
-    IDENTITY_POOL_ID: "us-east-1:1fb421b7-1835-4e93-aa2d-4e7937e47e87"
+    USER_POOL_ID: "us-east-1_urk0FDdWJ",
+    APP_CLIENT_ID: "40bmei4kbt97sd2uck1cs8go00",
+    IDENTITY_POOL_ID: "us-east-1:3aca9f66-0ec1-4434-8acc-b1336776390b"
   }
 };
 
