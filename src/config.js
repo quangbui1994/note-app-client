@@ -3,7 +3,7 @@
 //     STRIPE_KEY: "pk_test_hI9gTHgAM7cnvLdhhS8oyYpH00bi0TcclJ",
 //     s3: {
 //       REGION: "us-east-1",
-//       BUCKET: "notes-app-2-api"
+//       BUCKET: "notes-app-2-api-dev"
 //     },
 //     apiGateway: {
 //       REGION: "us-east-1",
@@ -21,7 +21,7 @@ const dev = {
   STRIPE_KEY: "pk_test_hI9gTHgAM7cnvLdhhS8oyYpH00bi0TcclJ",
   s3: {
     REGION: "us-east-1",
-    BUCKET: "notes-app-2-api"
+    BUCKET: "notes-app-2-api-dev"
   },
   apiGateway: {
     REGION: "us-east-1",
@@ -39,7 +39,7 @@ const prod = {
   STRIPE_KEY: "pk_test_hI9gTHgAM7cnvLdhhS8oyYpH00bi0TcclJ",
   s3: {
     REGION: "us-east-1",
-    BUCKET: "notes-app-2-api"
+    BUCKET: "notes-app-2-api-dev"
   },
   apiGateway: {
     REGION: "us-east-1",
