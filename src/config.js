@@ -30,7 +30,7 @@ const dev = {
   cognito: {
     REGION: "us-east-1",
     USER_POOL_ID: "us-east-1_urk0FDdWJ",
-    APP_CLIENT_ID: "rfeihkpnrk5rd1qb5kju7ra5",
+    APP_CLIENT_ID: "40bmei4kbt97sd2uck1cs8go00",
     IDENTITY_POOL_ID: "us-east-1:3aca9f66-0ec1-4434-8acc-b1336776390b"
   }
 };

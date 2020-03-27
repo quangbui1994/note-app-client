@@ -11,10 +11,11 @@ function App(props) {
   const [isAuthenticating, setIsAuthenticating] = useState(true);
 
   async function handleLogout() {
+    console.log("Start clicking")
     await Auth.signOut();
-    props.history.push("/login");
-
     userHasAuthenticated(false);
+
+    props.history.push("/login");
   }
 
   useEffect(() => {

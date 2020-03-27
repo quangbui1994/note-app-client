@@ -19,7 +19,7 @@ export default function Home(props) {
         const notes = await loadNotes();
         setNotes(notes);
       } catch (e) {
-        // alert(e);
+        alert(e);
       }
   
       setIsLoading(false);
