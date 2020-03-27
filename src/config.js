@@ -43,7 +43,7 @@ const prod = {
   },
   apiGateway: {
     REGION: "us-east-1",
-    URL: "https://xhhrcw8yfe.execute-api.us-east-1.amazonaws.com/prod"
+    URL: "https://xhhrcw8yfe.execute-api.us-east-1.amazonaws.com/dev"
   },
   cognito: {
     REGION: "us-east-1",
